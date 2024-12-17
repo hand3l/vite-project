@@ -5,7 +5,7 @@ import musicImg from '../assets/music.jpeg';
 const Hobbies = () => {
   return (
     <div className="hobbies-section">
-      <h2>Mis Hobbies</h2>
+      <h2> 🚀 Mis Hobbies</h2>
 
       {/* Sección Videojuegos */}
       <div className="hobby-card">
