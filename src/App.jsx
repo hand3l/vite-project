@@ -4,6 +4,7 @@ import Education from './components/Education';
 import Skills from './components/Skills';
 import Hobbies from './components/Hobbies';
 import profilePublic from '/profile-public.jpg'; // Desde public
+import FormularioRegistro from './components/Formulario';
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
       <Education />
       <Skills />
       <Hobbies />
+      <FormularioRegistro />
     </div>
   );
 }

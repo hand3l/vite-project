@@ -70,7 +70,6 @@ h1, h2, h3 {
   font-size: 1.2rem;
 }
 
-
 /* Estilo para las tarjetas de hobbies */
 .hobby-card {
   background: linear-gradient(to right, #2f045e, #056798);
@@ -88,7 +87,6 @@ h1, h2, h3 {
   margin: 0;
   color: #fff; 
 }
-
 
 .hobby-image {
   width: 120px;
@@ -113,6 +111,7 @@ h1, h2, h3 {
   border-radius: 8px;  /* Bordes redondeados */
   display: block;      /* Asegura alineación consistente */
 }
+
 
 
 
